@@ -1,3 +1,4 @@
+opencv-python-headless
 roboflow
 streamlit
 ultralytics
@@ -17,4 +18,3 @@ ipython
 psutil 
 thop
 wget
-opencv-python-headless
