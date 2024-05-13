@@ -3,7 +3,6 @@ streamlit
 ultralytics
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-python
 Pillow>=7.1.2
 PyYAML>=5.3.1
 requests>=2.23.0
@@ -18,3 +17,4 @@ ipython
 psutil 
 thop
 wget
+opencv-python-headless
